@@ -1,0 +1,169 @@
+ file 85 lines (48 sloc) 2.751 kb EditRawBlameHistory
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+License
+
+____________________________________________________
+
+This is an agreement between you, the user and Zachary "Isaak" Rogers, the developer of this program, Karben Computing, the group that publishes this game, and Epicyoobed, the group of people who developed this game.
+Please read it fully to ensure you do not infringe upon any of the contents.
+
+This is the agreement as of Version 1, Release 1 of the included application. Check the parent forum post to see if this is the most up-to-date version available. 
+The license may have changed.
+
+____________________________________________________
+
+YOU MUST
+
+BEFORE using the included application
+
+*Read and understand this license completely.
+*Agree to all statements made in this license.
+
+____________________________________________________
+
+YOU MUST
+
+*Distribute this application via link to it's parent forum post.
+*Post a comment or bug report to the parent post
+
+____________________________________________________
+
+YOU MAY NOT
+
+*Distribute this application directly
+*Distribute this application via P2P (Peer to Peer) networks such as in a torrent
+*Distribute this application in any other way not mentioned below
+
+____________________________________________________
+
+"REVIVAL", "REVIVAL" SNAPSHOTS, "REVIVAL MOBILE" AND EVERYTHING ELSE AFFILIATED WITH IT CAN BE DISTRUBUTED FROM THE FOLLOWING SOURCES
+
+http://karbengames.webs.com/revival
+http://github.com/Epicyoobed/Rev4Dev
+http://github.com/Epicyoobed/RevivalStable
+http://github.com/Alex-Epicyoobed/Revival-Mobile
+http://www.minecraftforum.net/topic/1556704-text-based-game-revival/
+
+____________________________________________________
+
+Epicyoobed MUST
+
+If and only IF the user abides by all of the above
+
+*Allow use of the included application and all of it's features
+
+____________________________________________________
+
+Epicyoobed MAY
+
+At ANY given time, WITHOUT notice
+
+*Stop developing the included application and any other affiliated items
+*Update the application regardless of time passed since the previous update
+*Update the License without updating any other part or item of the application
+
+At ANY given time, WITH notice on the forum
+
+*Remove a Epicyoobed volunteer from the team
+*Ask a person to no longer post on the thread. Failure to comply will result in a report
+*Remove the application from the thread
+
+____________________________________________________
+
+Karben Computing MAY
+
+*Distrubute tbe included application with link to parent forum post
+*Advertise the included application with link to parent forum post
+
+____________________________________________________
+
+At ANY given time, WITH or WITHOUT notice
+
+*Stop publishing the included application and take down its affiliated page on its affiliated website
+
+____________________________________________________
+
+
